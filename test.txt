@@ -1,3 +1,7 @@
 hello git!
 
 add git
+
+git change3 checkout
+master first change2
+testbranch next change3
