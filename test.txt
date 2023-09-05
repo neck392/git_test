@@ -3,4 +3,5 @@ hello git!
 edit test
 
 change1 checkout
+ex
 
